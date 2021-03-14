@@ -13,4 +13,4 @@ async def on_ready():
 
 bot.add_cog(cmds.Misc(bot))
 bot.add_cog(cmds.Database(bot))
-bot.run(open("info.txt","r").read())
+bot.run(open("info.txt","r").read()) 
