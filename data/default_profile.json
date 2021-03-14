@@ -1,0 +1,13 @@
+{
+  "gunpowder":0,
+  "inv":{
+    "Wooden Sword":{
+      "amount":1,
+      "durability":60,
+      "item":"Wooden Sword"
+    }
+  },
+  "commands_sent":0,
+  "mob_kills":0,
+  "days_since_death":0
+}

@@ -1,0 +1,68 @@
+{
+  "Wooden Sword":{
+    "names":["Wooden Sword","Wood Sword"],
+    "type":"sword",
+    "shop_type":"weapon",
+    "data":{
+      "damage":4,
+      "durability":60,
+      "drops_min":-3,
+      "drops_max":1
+    }
+  },
+  "Stone Sword":{
+    "names":["Stone Sword"],
+    "type":"sword",
+    "shop_type":"weapon",
+    "data":{
+      "damage":5,
+      "durability":150,
+      "drops_min":-2,
+      "drops_max":2
+    }
+  },
+  "Golden Sword":{
+    "names":["Golden Sword","Gold Sword"],
+    "type":"sword",
+    "shop_type":"weapon",
+    "data":{
+      "damage":4,
+      "durability":50,
+      "drops_min":0,
+      "drops_max":4
+    }
+  },
+  "Iron Sword":{
+    "names":["Iron Sword"],
+    "type":"sword",
+    "shop_type":"weapon",
+    "data":{
+      "damage":6,
+      "durability":512,
+      "drops_min":-1,
+      "drops_max":3
+    }
+  },
+  "Diamond Sword":{
+    "names":["Diamond Sword"],
+    "type":"sword",
+    "shop_type":"weapon",
+    "data":{
+      "damage":8,
+      "durability":1024,
+      "drops_min":0,
+      "drops_max":4
+    }
+  },
+  "Netherite Sword":{
+    "names":["Netherite Sword", "Netherrite Sword", "Nether Sword"],
+    "type":"sword",
+    "shop_type":"weapon",
+    "data":{
+      "damage":9,
+      "durability":2048,
+      "drops_min":1,
+      "drops_max":5
+    }
+  }
+}
